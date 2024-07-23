@@ -3,7 +3,6 @@
 @section('content')
 
     <div class="card mt-5">
-        <h2 class="card-header">Laravel 11 MongoDB CRUD Example from scratch - ItSolutionStuff.com</h2>
         <div class="card-body">
 
             @session('success')
